@@ -3,8 +3,8 @@ spring:
     name: m34031-kolegov-appname
   datasource:
     url: jdbc:postgresql://postgresql:5432/m34031-kolegov-appname
-    username: m34031-kolegov-appname
-    password: m34031-kolegov-appname
+    username: app
+    password: app
     driver-class-name: org.postgresql.Driver
   jpa:
     database: postgresql
